@@ -1,0 +1,28 @@
+body{
+    background-image: url(../assets/pokemon-bg.jpg);
+}
+.large_image{
+    justify-content: center;
+    align-items: center;
+    display:flex ;
+    min-height: 80vh;
+}
+/*card
+*/
+.pokymon{   
+    background-color: beige;
+    width: 10%; 
+    height: 80%;
+    border-radius: 20%;
+    text-align: center;
+    -webkit-box-shadow: -18px 40px 40px -21px rgba(0,0,0,0.8); 
+    box-shadow: -18px 40px 40px -21px rgba(0,0,0,0.8);
+
+    
+}
+
+.image{
+    border-radius: 100%;
+    width: 30%;
+    height: 20%;
+}
